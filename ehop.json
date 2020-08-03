@@ -1,0 +1,22 @@
+{
+    "11292" : {
+        "name" : "Яблоки",
+        "cost" : 12,
+        "description" : "Яблоки спелые, очень красивые",
+        "image" : "image/apple.jpg"
+    },
+
+    "11294" : {
+        "name" : "Лимоны",
+        "cost" : 16,
+        "description" : "Лимон-гандон, тупой чмошник, кислый как твоя рожа",
+        "image" : "image/lemon.jpg"
+    },
+
+    "11295" : {
+        "name" : "Клубника",
+        "cost" : 22,
+        "description" : "Клубника-тупика, гнилая жопа",
+        "image" : "image/clubnika.jpg"
+    }
+}
